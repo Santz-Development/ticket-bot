@@ -1,0 +1,26 @@
+{
+  "name": "ticket-bot-santz",
+  "version": "1.0.0",
+  "description": "Bot de tickets para Discord com avaliação, logs e sistema multiservidor",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "tickets",
+    "multiserver",
+    "santz-development"
+  ],
+  "author": "Santz Development",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.14.0",
+    "dotenv": "^16.3.1"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
